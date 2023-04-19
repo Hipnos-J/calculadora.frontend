@@ -1,8 +1,7 @@
 # calculadora.frontend
 local
 
-Ejercicio de creacion de Calculadora.
+Configuracion de calculadora basica
 
-GitHub:
-
-https://github.com/Hipnos-J/calculadora.frontend.git
+Github:
+[Enlace](https://github.com/Hipnos-J/calculadora.frontend.git);
